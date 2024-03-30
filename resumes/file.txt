@@ -1,0 +1,30 @@
+John Faisal Doe
+Data Science Student
+Amman, Jordan
++962471545454 | https://www.linkedin.com/in/zaid-allwansah/ | https://github.com/ZaidHani | johndoe1@gmail.com
+Summery
+An ambitious student aspiring to apply my skills in data science to address complex challenges. I’m Eager to contribute technical expertise and innovative problem-solving skills.
+Experience
+AI Development Intern
+IbtikarAI January 2024-February 2024
+Built a WhatsApp chatbot using langcahin and OpenAI API for an e-commerce website.
+Education
+Al-Balaq’a Applied University Jordan, Salt
+Bachelor of Data Science 2021-2025
+Skills
+SQL, Bash, Python (Streamlit, Pandas, PySpark, Polars, Matplotlib, Seaborn)
+Data Modeling, Data Visualization, ETL, Data Analysis (Knime, RapidMiner)
+Natural Language Processing, Data Pipelines (Apache Airflow, Apache Kafka), Machine Learning (Sci-Kit Learn)
+Soft Skills
+Teamwork, communication skills, leadership, problem solving, persistent commitment to report and present findings.
+Certifications
+IBM Data Engineering Professional Certificate (Coursera)
+IBM Data Warehouse Engineer Professional Certificate (Coursera)
+Projects
+1- Customers Churn Prediction
+Used analysis and machine learning techniques to conduct a machine learning model to predict customers churn for a telecommunication company.
+2- Chatbot
+Developed and deployed a RAG chatbot using langchain that is specialized in Coursera courses.
+https://zaid-mentorness.streamlit.app/
+3- Batch ETL Data Pipeline on NYC Taxi Data
+Designed and implemented a robust data pipeline using Python Polars to extract data and transform it for cleaning and aggregation, and finally loading it in a PostgreSQL data warehouse.
